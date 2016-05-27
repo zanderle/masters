@@ -1,0 +1,2 @@
+companies_cross.json filter=lfs diff=lfs merge=lfs -text
+companies.json filter=lfs diff=lfs merge=lfs -text
